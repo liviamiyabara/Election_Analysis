@@ -2,7 +2,7 @@
 Week 3 module, introduction to Python
 
 ## Election Audit Overview 
-In this challenge the student assisted a Colorado Board of Elections employee to perform the election audit by creating a code to automate vote count report and compute:
+In this challenge the student assisted a Colorado Board of Elections employee to perform the election audit by creating a code to automate the vote count report and compute:
  * Total number of votes casted
  * Total number of votes by county
  * Percentage of votes by county
