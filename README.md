@@ -17,7 +17,7 @@ In this challenge the student assisted a Colorado Board of Elections employee to
 
   ![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/Total%20votes.png)
 
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+* Provide a breakdown of the number of votes (stated in the parentesis) and the percentage of total votes for each county in the precinct.
 
   ![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/County%20votes.png)
 
@@ -25,7 +25,7 @@ In this challenge the student assisted a Colorado Board of Elections employee to
 
   ![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/County%20largest%20number%20%20of%20votes.png)
 
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+* Provide a breakdown of the number of votes (stated in the parentesis) and the percentage of the total votes each candidate received.
 
   ![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/Candidates%20vote%20breakdown.png)
 
