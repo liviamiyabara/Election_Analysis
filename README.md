@@ -34,5 +34,9 @@ In this challenge the student assisted a Colorado Board of Elections employee to
   ![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/Winner.png)
 
 ## Election-Audit Summary
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections. There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
+
+With some modifications the script can be used for any election. In the case of the national election, besides the analysis by county, edits to the code could also provide the breakdown by state. After defining the list, dictionary and the count and percentage to zero, a for loop would be created to get the list of states:
+![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/State%20vote%20count%20For%20loop.png)
+Then another for loop would be used to calculate the sum of votes per state and the percentages:
+![ScreenShot](https://github.com/liviamiyabara/Election_Analysis/blob/main/analysis/State%20vote%20count.png)
 
